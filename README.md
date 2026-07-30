@@ -19,7 +19,7 @@ const SUPABASE_PROJECT_ID = "upzvqcycbgmrqjqssscy";
 
 3. Open `index.html` locally (or deploy via GitHub Pages).
 
-## Pages
+## Page
 
 - `index.html` — her experience (feelings → love/sorry → regret → do better → send)
 - `responses.html` — your view of her answers
